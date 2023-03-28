@@ -1,4 +1,3 @@
-
 // ==========================================================================================
 // Title:   #Tunamal - Converts until 9007199254740991 or 10^16 numbers to Mongolion words😉
 // Author:  Batzorig Gonchigsumlaa
