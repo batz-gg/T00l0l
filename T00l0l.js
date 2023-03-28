@@ -17,7 +17,6 @@ function nm2mn (tunamal){
   if(tunamal > Number.MAX_SAFE_INTEGER) return '⚠️  АНХААР: Тунамалын оронгоос хэтэрлээ  🤦‍♂️';
 
   let num = ('0000000000000000'+ tunamal).slice(-16).match(/^(\d{1})(\d{1})(\d{2})(\d{1})(\d{2})(\d{1})(\d{2})(\d{1})(\d{2})(\d{1})(\d{2})$/); // тунамал 
-  console.log(num)
   if(!num) return;
   
   let result = num[1] != 0 ? (onesAlt[Number(num[1])] || `${tenth[num[1][0]]} ${onesAlt[num[1][1]]}`) + ' тунамал ' : '';
