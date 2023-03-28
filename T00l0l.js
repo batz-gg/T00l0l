@@ -1,8 +1,9 @@
 // ==========================================================================================
-// Title:   #Tunamal - Converts until 9007199254740991 or 10^16 numbers to Mongolion words😉
-// Author:  Batzorig Gonchigsumlaa
-// email:   batz.gg@gmail.com
-// Date:    03 Mar 2023
+// Title:       TUNAMAL
+// Description: Converts until 9007199254740991 or 10^16 numbers to Mongolion words😉 
+// Author:      Batzorig Gonchigsumlaa
+// Email:       batz.gg@gmail.com
+// Date:        03 Mar 2023
 //===========================================================================================
 
 function nm2mn (tunamal){
@@ -12,9 +13,8 @@ function nm2mn (tunamal){
     const tens = ["", "арав", "хорь", "гуч", "дөч", "тавь", "жар", "дал", "ная", "ер"];
     const tenth = ["", "арван", "хорин", "гучин", "дөчин", "тавин", "жаран", "далан", "наян", "ерэн"];
 
-    process.stdout.write(tunamal + " : ");
     if(tunamal === 0) return 'тэг' ;
-    if(tunamal > Number.MAX_SAFE_INTEGER) return '⚠️  АНХААР: Тунамалын оронгоос хэтэрлээ';
+    if(tunamal > Number.MAX_SAFE_INTEGER) return '⚠️  АНХААР: Тунамалын оронгоос хэтэрлээ  🤦‍♂️';
 
     let num = ('0000000000000000'+ tunamal).slice(-16).match(/^(\d{1})(\d{1})(\d{2})(\d{1})(\d{2})(\d{1})(\d{2})(\d{1})(\d{2})(\d{1})(\d{2})$/); // тунамал 
 
