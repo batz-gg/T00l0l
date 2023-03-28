@@ -38,3 +38,5 @@ function nm2mn (tunamal){
 
     return result.replace(/\s+/g, ' ').trim();
 }
+
+module.exports = nm2mn;

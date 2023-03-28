@@ -1,0 +1,14 @@
+{
+  "name": "T00l0l",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:batz-gg/T00l0l.git",
+  "author": "Batzorig Tselger",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
