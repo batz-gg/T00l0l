@@ -1,6 +1,6 @@
 // ==========================================================================================
 // Title:       TUNAMAL
-// Description: Converts until 9007199254740991 or 10^16 numbers to Mongolion words😉 
+// Description: Converts until 9007199254740991 or numbers with 16 places to Mongolion words😉 
 // Author:      Batzorig Gonchigsumlaa
 // Email:       batz.gg@gmail.com
 // Date:        03 Mar 2023
