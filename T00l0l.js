@@ -23,13 +23,13 @@ function nm2mn (tunamal){
   let result = num[1] != 0 ? (onesAlt[Number(num[1])] || `${tenth[num[1][0]]} ${onesAlt[num[1][1]]}`) + ' тунамал ' : '';
 
   result += num[2] != 0 ? (onesAlt[Number(num[2])] || `${tenth[num[2][0]]} ${ones[num[2][1]]}`) + ' зуун ' : '';
-  result += num[3] != 0 ? (onesAlt[Number(num[3])] || `${tenth[num[3][0]]} ${num[3][0]!=='0' ? onesAlt[num[3][1]] : onesAlt[num[3][1]]}`) + ' их наяд ' : (num[2] !== '0' ? ' их наяд ' : '');
+  result += num[3] != 0 ? (onesAlt[Number(num[3])] || `${tenth[num[3][0]]} ${num[3][0]!=='0' ? onesAltH[num[3][1]] : onesAlt[num[3][1]]}`) + ' их наяд ' : (num[2] !== '0' ? ' их наяд ' : '');
 
   result += num[4] != 0 ? (onesAlt[Number(num[4])] || `${tenth[num[4][0]]} ${ones[num[4][1]]}`) + ' зуун ' : '';
-  result += num[5] != 0 ? (onesAlt[Number(num[5])] || `${tenth[num[5][0]]} ${num[5][0]!=='0' ? onesAlt[num[5][1]] : onesAlt[num[5][1]]}`) + ' тэрбум ' : (num[4] !== '0' ? ' тэрбум ' : '');
+  result += num[5] != 0 ? (onesAlt[Number(num[5])] || `${tenth[num[5][0]]} ${num[5][0]!=='0' ? onesAltH[num[5][1]] : onesAlt[num[5][1]]}`) + ' тэрбум ' : (num[4] !== '0' ? ' тэрбум ' : '');
 
   result += num[6] != 0 ? (onesAlt[Number(num[6])] || `${tenth[num[6][0]]} ${ones[num[6][1]]}`) + ' зуун ' : '';
-  result += num[7] != 0 ? (onesAlt[Number(num[7])] || `${tenth[num[7][0]]} ${num[7][0]!=='0' ? onesAlt[num[7][1]] : onesAlt[num[7][1]]}`) + ' сая ' : (num[6] !== '0' ? ' сая ' : '');
+  result += num[7] != 0 ? (onesAlt[Number(num[7])] || `${tenth[num[7][0]]} ${num[7][0]!=='0' ? onesAltH[num[7][1]] : onesAlt[num[7][1]]}`) + ' сая ' : (num[6] !== '0' ? ' сая ' : '');
 
   result += num[8] != 0 ? (onesAlt[Number(num[8])] || `${tenth[num[8][0]]} ${ones[num[8][1]]}`) + ' зуун ' : '';
   result += num[9] != 0 ? (onesAlt[Number(num[9])] || `${tenth[num[9][0]]} ${num[9][0]!=='0' ? onesAltH[num[9][1]] : onesAlt[num[9][1]]}`) + ' мянга ' : (num[8] !== '0' ? ' мянга ' : '');
