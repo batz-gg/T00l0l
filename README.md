@@ -7,6 +7,8 @@ Made with 💝 in UB @2023
 
 Tested on nodeMon.js && Jest.js
 
+For example: https://eloquent-bubblegum-02fffa.netlify.app/
+
 Keywords: Эерэг бүхэл 16 оронтой тоог Монгол үг болгон хөрвүүлж хувиргана.👹
 
 ![image](https://user-images.githubusercontent.com/87542210/228274240-a3488110-93c5-42df-8f03-cc6ec19740c8.png)
