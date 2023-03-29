@@ -15,4 +15,6 @@ Keywords: Эерэг бүхэл 16 оронтой тоог Монгол үг б�
 
 CDN Usage of JsDeliver: import nm2mn from 'https://cdn.jsdelivr.net/gh/batz-gg/T00l0l@main/tunamal.js';
 
+GIST.GITHUB: https://gist.github.com/batz-gg/860db8462cac4c652b2ecbad1290a7c9
+
 Give me a coffee: ![338381102_677069737756510_2853259805913367190_n](https://user-images.githubusercontent.com/87542210/228422577-14daf642-c642-4afd-bc24-e7821c347724.png)
