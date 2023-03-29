@@ -11,4 +11,4 @@ Keywords: Эерэг бүхэл 16 оронтой тоог Монгол үг б�
 
 ![image](https://user-images.githubusercontent.com/87542210/228274240-a3488110-93c5-42df-8f03-cc6ec19740c8.png)
 
-CDN Usage of JsDeliver: import { nm2mn } from 'https://cdn.jsdelivr.net/gh/batz-gg/T00l0l@main/T00l0l.js'
+CDN Usage of JsDeliver: import nm2mn from 'https://cdn.jsdelivr.net/gh/batz-gg/T00l0l@main/T00l0l.js';
