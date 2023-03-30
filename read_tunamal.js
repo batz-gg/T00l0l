@@ -62,15 +62,28 @@ let a, n, g;
 
 const mn2nm = (s) => {
     a = s.toString().split(/[\s-]+/);
+
     if ((a[a.indexOf(a.find(e => e === "их"))] + ' ' + a[a.indexOf(a.find(e => e === "наяд"))]) == 'их наяд') {
         a[a.indexOf(a.find(e => e === "их"))] = 'их наяд';
         a = a.filter(x => x != 'наяд');
     }
+
+    if (a[0] == 'зуу' ||
+        a[0] == 'мянга' ||
+        a[0] == 'сая' ||
+        a[0] == 'тэрбум' ||
+        a[0] == 'их наяд' ||
+        a[0] == 'тунамал'
+        ) {
+        a = 'нэг' + ' ' + s;
+        mn2nm(a);
+    }
+
     n = 0;
     g = 0;
     a.forEach(feach);
     return n + g;
-};
+}
 
 const feach = (w) =>{
     let x = onesTens[w];
