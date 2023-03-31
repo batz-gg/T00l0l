@@ -7,7 +7,7 @@ Made with 💝 in UB @2023
 
 Tested on nodeMon.js && Jest.js
 
-For example: https://eloquent-bubblegum-02fffa.netlify.app/
+For example: [https://eloquent-bubblegum-02fffa.netlify.app/](http://bit.ly/40Mxy7F)
 
 Keywords: Эерэг бүхэл 16 оронтой тоог Монгол үг болгон хөрвүүлж хувиргана.👹
 
