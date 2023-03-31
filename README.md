@@ -15,6 +15,6 @@ Keywords: Эерэг бүхэл 16 оронтой тоог Монгол үг б�
 
 UPDATE: Текстэн тоог буцаагаад тоо болгодог боллоо😊 || The mn2nm of read_tunamal.js can convert text to number.
 
-Give me a coffee: http://bit.ly/3KmOwEj
+[Give me a coffee](http://bit.ly/3KmOwEj)
 
 
