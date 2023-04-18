@@ -7,12 +7,6 @@ Keywords: Эерэг бүхэл 16 оронтой тоог Монгол үг б�
 
 ![image](https://user-images.githubusercontent.com/87542210/228274240-a3488110-93c5-42df-8f03-cc6ec19740c8.png)
 
-UPDATE: Текстэн тоог буцаагаад тоо болгодог боллоо😊 || The mn2nm of read_tunamal.js can convert text to number.
-
-[Give me a coffee](https://eloquent-bubblegum-02fffa.netlify.app/khnqr.png)
-
-Made with 💝 in UB @2023
-
 **[GOOGLE SHEETS](https://docs.google.com/spreadsheets) ДЭЭР ТООГ ҮГ РҮҮ ХӨРВҮҮЛЭГЧИЙГ АШИГЛАХ НЬ:**
 
 Google Sheets App Script ашиглан T00l0l функц оруулах заавар нь дараах байдлаар байна:
@@ -26,3 +20,9 @@ Google Sheets App Script ашиглан T00l0l функц оруулах заа�
 Функцыг хадгалсны дараа та үүнийг Google Sheet доторх бусад функцүүд шиг ашиглаж болно.
 
 ![Animation](https://user-images.githubusercontent.com/87542210/232683486-a12ccf62-b01f-42ea-92c3-5a469737bcca.gif)
+
+UPDATE: Текстэн тоог буцаагаад тоо болгодог боллоо😊 || The mn2nm of read_tunamal.js can convert text to number.
+
+[Give me a coffee](https://eloquent-bubblegum-02fffa.netlify.app/khnqr.png)
+
+Made with 💝 in UB @2023
