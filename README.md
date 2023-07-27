@@ -23,6 +23,7 @@ Google Sheets App Script ашиглан T00l0l функц оруулах заа�
 
 UPDATE: Текстэн тоог буцаагаад тоо болгодог боллоо😊 || The mn2nm of read_tunamal.js can convert text to number.
 
-[Give me a coffee](https://eloquent-bubblegum-02fffa.netlify.app/khnqr.png)
+Хэрэв та энэ онцлогийг өөрийн шийдэлдээ дурын байдлаар хөгжүүлүүлэн шигтгэхийг хүсч байвал [над руу](mailto:batz.gg@gmail.com) бичээрэй.
+If you want develop this feature to your digital solution, [i will be in here](mailto:batz.gg@gmail.com)
 
 Made with 💝 in UB @2023
