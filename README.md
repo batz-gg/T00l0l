@@ -21,7 +21,9 @@ Google Sheets App Script ашиглан T00l0l функц оруулах заа�
 
 ![Animation](https://user-images.githubusercontent.com/87542210/232683486-a12ccf62-b01f-42ea-92c3-5a469737bcca.gif)
 
-UPDATE: Текстэн тоог буцаагаад тоо болгодог боллоо😊 || The mn2nm of read_tunamal.js can convert text to number.
+UPDATE: **Текстэн тоог буцаагаад тоо болгодог боллоо😊 || The mn2nm of read_tunamal.js can convert text to number.**
+
+UPDATE: **[Тоог дуу хоолой болгон дуудаж хэлдэг боллоо.](https://youtube.com/watch?v=h35j6lBs7SI&feature=share) || The Mongolian number to speech is now available. @230728**
 
 Хэрэв та энэ онцлогийг өөрийн шийдэлдээ дурын байдлаар хөгжүүлүүлэн шигтгэхийг хүсч байвал [над руу](mailto:batz.gg@gmail.com) бичээрэй.
 
