@@ -12,7 +12,7 @@ const nm2mn = (tunamal) => {
     const onesAltH = ["", "нэгэн", "хоёр", "гурван", "дөрвөн", "таван", "зургаан", "долоон", "найман", "есөн"];
     const tens = ["", "арав", "хорь", "гуч", "дөч", "тавь", "жар", "дал", "ная", "ер"];
     const tenth = ["", "арван", "хорин", "гучин", "дөчин", "тавин", "жаран", "далан", "наян", "ерэн"];
-    if (!tunamal || isNaN(parseInt(tunamal)) || parseInt(tunamal) < 0) {
+    if (isNaN(parseInt(tunamal)) || parseInt(tunamal) < 0) {
         tunamal = '';
         return 'Эерэг, бүхэл тоо оруулна уу.'
     };
